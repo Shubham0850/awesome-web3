@@ -1,5 +1,5 @@
 # 🎩Awesome WEB3✨
-[Awesome WEB3](./assets/awesome-web3.png)
+![Awesome WEB3](./assets/awesome-web3.png)
 🧙‍♂️ Welcome to Awesome WEB3, where we weave spells of knowledge to demystify the world of blockchain! 🪄 Our magical GitHub project aims to educate aspiring sorcerers (developers) about Web3 and empower them to harness the power of decentralized sorcery. From creating potions (smart contracts) to conjuring enchanted applications (DApps), we've got you covered! 🌟 this repo, explore spellbinding tutorials, unravel the secrets of decentralized finance (DeFi), and dive into the mystical depths of WEB3. Gather your wands (laptops) and embark on this whimsical journey to become a true Web3 wizard! 🎩✨
 
 ## Index
