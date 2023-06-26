@@ -12,10 +12,12 @@
 		- [History of WEB3](#history-of-web3)
 		- [WEB3](#web3)
 		- [Blockchain vs WEB3](#blockchain-vs-web3)
-	- [Getting Started](#getting-started)
+	- [Getting Started: Embarking on Your Web3 Adventure](#getting-started-embarking-on-your-web3-adventure)
+	- [🛣️Roadmap: Navigating the Winding Path to Web3 Mastery](#️roadmap-navigating-the-winding-path-to-web3-mastery)
 	- [Tutorials](#tutorials)
 	- [Awesome WEB3 projects](#awesome-web3-projects)
-	- [Resource Links](#resource-links)
+	- [Resource Links: Unveiling the Tome of Web3 Knowledge](#resource-links-unveiling-the-tome-of-web3-knowledge)
+		- [Resources Links: Unveiling the Tome of Web3 Knowledge](#resources-links-unveiling-the-tome-of-web3-knowledge)
 	- [Contribution Guidelines](#contribution-guidelines)
 	- [Community Discussion](#community-discussion)
 	- [Versioning and Releases](#versioning-and-releases)
@@ -79,9 +81,39 @@ While blockchain plays a vital role in enabling Web3, it is just one piece of th
 
 So, my dear adventurer, remember this: Web3 is the vision, the magical world we aspire to create, where individuals have greater control and freedom in the digital realm. Blockchain, on the other hand, is the powerful enchantment, the technology that supports and upholds that vision, providing security, transparency, and trust. Together, they form the foundation of a new era of possibilities, transforming the way we experience the internet and embark on our digital quests! ✨🌐🔮
 
-## Getting Started
+## Getting Started: Embarking on Your Web3 Adventure
 
 Learn how to embark on your journey as a Web3 wizard. Discover the tools, setup, and prerequisites required to start your adventure in the realm of blockchain.
+
+## 🛣️Roadmap: Navigating the Winding Path to Web3 Mastery
+![Roadmap](./assets/roadmap.png)
+
+Ah, the Roadmap! Imagine it as a mystical treasure map that guides you through the enchanting journey of becoming a Web3 master. But wait, it's not just any old map—it's an interactive, ever-evolving quest log, full of surprises and hidden gems! 🗺️🔍✨
+
+As you set foot on this whimsical path, you'll encounter milestones that mark your progress and unveil new challenges. Each milestone is like a glowing checkpoint that rewards you with new knowledge and skills, leveling you up in the realm of Web3. It's like acquiring magical artifacts and gaining new abilities to conquer even greater quests! 🏆🔮💪
+
+But be warned, dear adventurer, the Roadmap isn't set in stone. It's more like a lively storybook, constantly updating with new chapters and unexpected twists. The Web3 realm is ever-changing, with new technologies, protocols, and magical creatures emerging on the horizon. So, stay curious and adaptable as you navigate this mystical path! 📚🌅🦄
+
+On your journey, you'll encounter challenges that test your mettle and expand your understanding. It's like slaying digital dragons, facing off against bugs and glitches, and emerging victorious with each line of code you conquer. Embrace the spirit of resilience and problem-solving, for every challenge you overcome brings you closer to Web3 greatness! 🐉⚔️🛠️
+
+But fear not, brave soul! Along the Roadmap, you'll find friendly wizards and wise sorceresses—mentors and guides who offer their knowledge and support. They are like the guardians of ancient wisdom, eager to share their insights and help you unlock new realms of understanding. So, seek their guidance, ask questions, and build alliances as you embark on your Web3 adventures! 🧙‍♀️🔑🤝
+
+Remember, the Roadmap is a journey of self-discovery and growth. Take your time, savor each milestone, and celebrate your achievements along the way. Web3 is not just about reaching the destination—it's about the magical experiences, friendships forged, and the joy of continuously learning and exploring the unknown. So, let the Roadmap be your guide, and let the story of your Web3 mastery unfold! 🚀✨🌌
+
+- [Web3 Developer Roadmap](https://github.com/itoshkov/web3-developer-roadmap): This comprehensive roadmap provides a step-by-step guide for developers to become proficient in Web3 development. It covers blockchain fundamentals, smart contracts, decentralized applications (DApps), and various tools and frameworks.
+
+- [Ethereum Developer Roadmap](https://ethereum.org/en/roadmap/): If you're specifically interested in Ethereum, this roadmap by the Ethereum Foundation outlines the learning path for becoming an Ethereum developer. It covers the essential concepts, programming languages, and frameworks used in Ethereum development.
+
+- [Blockchain Developer Roadmap](https://roadmap.sh/blockchain): Step by step guide to becoming a blockchain developer.
+
+- [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map): DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
+
+- [Solana Developer Roadmap](https://vitto.cc/the-complete-solana-development-roadmap/): The complete solana development roadmap
+
+- [Polkadot Developer Roadmap](https://github.com/substrate-developer-hub/substrate-developer-roadmap): If you're intrigued by the Polkadot ecosystem, this roadmap is designed to guide developers through building on the Polkadot network. It covers Substrate, the framework for building blockchains in the Polkadot ecosystem, along with smart contracts and interoperability.
+
+Remember, roadmaps are valuable guides, but the Web3 realm is constantly evolving. Stay curious, adapt to new technologies, and continue exploring beyond the roadmap to embrace the ever-changing landscape of Web3 development. Happy adventuring! 🌟🌐🚀
+
 
 ## Tutorials
 
@@ -103,9 +135,40 @@ But the true magic of learning by building projects lies in the hands-on experie
 
 So, young sorcerer, embrace the path of learning by building projects in the realm of Web3. Let your imagination soar, choose your quests wisely, and immerse yourself in the wondrous world of decentralized magic. With each project you embark upon, you'll grow in knowledge and skill, becoming a true master of Web3 and shaping the future of this enchanting realm! 🌐✨🔥
 
-## Resource Links
+[Checkout Awesome WEB3 projects link 🔗](https://github.com/Shubham0850/awesome-web3-projects)
 
-Unleash your thirst for knowledge by exploring our curated list of external resources. Find official documentation, online courses, insightful articles, and vibrant communities that will propel your understanding of Web3 to new heights.
+## Resource Links: Unveiling the Tome of Web3 Knowledge
+
+### Resources Links: Unveiling the Tome of Web3 Knowledge
+
+Picture this: You stumble upon a hidden chamber filled with ancient scrolls and mystical tomes. Each one holds a key to unlock a different facet of Web3 knowledge. These resources are your guide, your companions on this extraordinary journey. So, let us reveal the sacred texts that will aid you in unraveling the mysteries of Web3! 📚🌟🔓
+
+- **[Ethereum Developer Resources](https://ethereum.org/en/developers/)**: A builders manual for Ethereum. By builders, for builders.
+
+- **[Solidity Language](https://docs.soliditylang.org/en/v0.8.20/)**: Unveil the arcane language of Solidity, the key to unlocking the power of smart contracts. This documentation will guide you through the syntax, data structures, and best practices of Solidity, empowering you to wield the magic of blockchain with confidence.
+
+- **[Web3.js](https://web3js.readthedocs.io/en/v1.10.0/)**: Discover the enchanted library of Web3.js! This documentation will illuminate your path towards seamless interactions with Ethereum and other Web3 protocols. Learn how to cast spells that fetch blockchain data, send transactions, and summon decentralized powers.
+
+- **[Ethereum Developer Tools](https://ethereum.org/developers/#developer-tools)**: Equip yourself with the enchanted artifacts of Ethereum development. Explore a curated collection of tools, from Ethereum clients like Geth and Parity to testing frameworks like Truffle and Hardhat. These tools will amplify your abilities and streamline your journey through the Web3 realm.
+
+- **[CryptoZombies](https://cryptozombies.io/)**: Prepare for an extraordinary adventure in the land of CryptoZombies! This interactive tutorial will guide you through the creation of your very own Ethereum-based game. Learn the ways of Solidity while slaying digital zombies, acquiring magical loot, and proving yourself as a true Web3 sorcerer.
+
+- **[OpenZeppelin](https://openzeppelin.com/)**: Unleash the power of battle-tested smart contracts with OpenZeppelin. Explore their documentation, tutorials, and ready-to-use contracts to secure your creations and ensure their resilience in the face of digital adversaries.
+
+- **[EthHub](https://docs.ethhub.io/)**: Enter the vast repository of EthHub, a treasure trove of Ethereum knowledge. From beginner-friendly guides to in-depth research articles, this resource is your compass through the intricacies of Ethereum and the wider Web3 ecosystem.
+
+- **[Awesome Ethereum Dev](https://github.com/Shubham0850/awesome-ethereum-dev)**: A curated list of resources for learning Ethereum development.
+
+- **[Awesome Cryptography](https://github.com/Shubham0850/awesome-cryptography)**: A curated list of cryptography resources and links.
+
+- **[Awesome WEB3 Projects](https://github.com/Shubham0850/awesome-web3-projects)**: A handpicked collection of inspiring Web3 projects for learning and exploration.
+
+- **[Awesome WEB3 Jobs](https://github.com/Shubham0850/awesome-web3-jobs)**: A curated list of job boards and resources for finding jobs in the Web3 industry.
+
+-  **[Ethers.js](https://docs.ethers.org/v5/)**: The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
+-  
+
+Embrace these resources, dear adventurer, and let them guide you on your path to Web3 mastery. Through their wisdom and insights, you will acquire the skills and knowledge to wield the magic of decentralization and shape the future of the digital realm! 🌐✨🚀
 
 ## Contribution Guidelines
 
