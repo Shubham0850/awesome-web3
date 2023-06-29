@@ -182,6 +182,16 @@ Embrace these resources, dear adventurer, and let them guide you on your path to
 
 ## YouTube Channels
 
+1. **[Dapp University](https://www.youtube.com/@DappUniversity/)** - This channel provides tutorials, walkthroughs, and code examples for building decentralized applications. It covers topics like smart contracts, Ethereum development, decentralized finance (DeFi), and blockchain programming.
+
+2. **[Code Eater](https://www.youtube.com/@CodeEater21)** - It teaches developers how to build blockchain games using the Ethereum platform and Solidity programming language. It covers topics like Solidity, Solana, Decentralized Applications, Truffle, Hardhat, Defi etc..
+
+3. **[Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)** - This channel offers tutorials and guides for blockchain developers, including smart contract programming with Solidity. It covers topics like decentralized finance (DeFi), Ethernaut, Vyper 0.3, Foundry and building blockchain applications.
+
+4. **[CryptoZombies](https://www.youtube.com/@CryptoZombie)** - This channel is associated with the popular interactive programming tutorial called "CryptoZombies." It teaches developers how to build blockchain games using the Ethereum platform and Solidity programming language.
+
+5. **[EatTheBlocks](https://www.youtube.com/@EatTheBlocks)** - This channel offers tutorials and guides for blockchain developers, including smart contract programming with Solidity. It covers topics like decentralized finance (DeFi), Ethereum development, and building blockchain applications.
+
 ## Contribution Guidelines
 
 Ready to join our fellowship of Web3 wizards? Learn how to contribute to our magical GitHub project by adding resources, fixing bugs, enhancing documentation, or casting your own spells of improvement.
